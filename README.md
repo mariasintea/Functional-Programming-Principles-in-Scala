@@ -8,4 +8,7 @@
 - Higher Order Functions: [code](https://github.com/mariasintea/Scala/tree/main/lecture%202) 
 
 ### Lecture 3
-- Data and Abstractions
+- Data and Abstractions: [code](https://github.com/mariasintea/Scala/tree/main/lecture%203)
+
+### Lecture 4
+- Types and Pattern Matching
