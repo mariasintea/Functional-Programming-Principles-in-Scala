@@ -13,7 +13,7 @@
 - Data and Abstractions: [code](https://github.com/mariasintea/Scala/tree/main/lecture%203)
 
 ### Lecture 4
-- Types and Pattern Matching: [code]()
+- Types and Pattern Matching: [code](https://github.com/mariasintea/Scala/tree/main/lecture%204)
 
 ### Lecture 6
 - Collections: [code]()
