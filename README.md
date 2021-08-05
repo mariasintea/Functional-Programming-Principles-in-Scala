@@ -1,7 +1,7 @@
 ## Functional Programming Principles in Scala
 
 ### Utils
-- Style Guide: [notes]()
+- Style Guide: [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Style-Guide.pdf)
 - Cheet Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes]()
 - Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
 
