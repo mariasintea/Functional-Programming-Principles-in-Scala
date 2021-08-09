@@ -4,6 +4,8 @@
 - Style Guide: [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Style-Guide.pdf)
 - Cheat Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cheat-Sheet.pdf)
 - Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
+- Structure and Interpretation of Computer Programs: [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- Programming in Scala: [book]()
 
 ### Week 1 - Functions & Evaluation
 - Lecture 1.1 - Programming Paradigms: [slides]() [notes]()
