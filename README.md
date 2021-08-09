@@ -2,7 +2,7 @@
 
 ### Utils
 - Style Guide: [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Style-Guide.pdf)
-- Cheet Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes]()
+- Cheat Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cheat-Sheet.pdf)
 - Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
 
 ### Week 1 - Functions & Evaluation
