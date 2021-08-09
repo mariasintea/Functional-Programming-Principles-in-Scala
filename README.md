@@ -10,9 +10,9 @@
 - Scala for the Impatient - Cay S Horstmann: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cay%20S.%20Horstmann%20-%20Scala%20for%20the%20Impatient-Addison-Wesley%20(2016).pdf) [notes]()
 
 ### Week 1 - Functions & Evaluation
-- Lecture 1.1 - Programming Paradigms: [slides]() [notes]()
-- Lecture 1.2 - Elements of Programming: [slides]() [notes]()
-- Lecture 1.3 - Evaluation Strategies and Termination: [slides]() [notes]()
+- Lecture 1.1 - Programming Paradigms: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms-Notes.pdf)
+- Lecture 1.2 - Elements of Programming: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.2-Elements-of-Programming.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.2-Elements-of-Programming-Notes.pdf)
+- Lecture 1.3 - Evaluation Strategies and Termination: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.3-Evaluation-Strategies-and-Termination.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.3-Evaluation-Strategies-and-Termination-Notes.pdf)
 - Lecture 1.4 - Conditionals and Value Definitions: [slides]() [notes]()
 - Lecture 1.5 - Example: Square Roots with Newton's method: [slides]() [notes]()
 - Lecture 1.6 - Blocks and Lexical Scope: [slides]() [notes]()
