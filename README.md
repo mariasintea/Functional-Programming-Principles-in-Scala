@@ -5,7 +5,9 @@
 - Cheat Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cheat-Sheet.pdf)
 - Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
 - Structure and Interpretation of Computer Programs: [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- Programming in Scala: [book]()
+- Programming in Scala: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Programming%20in%20Scala%2C%20Fourth%20Edition%20(1116%20-%20Martin%20Odersky.pdf)
+- Functional Programming Simplified: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Alvin%20Alexander%20-%20Functional%20Programming%2C%20Simplified_%20(Scala%20edition)%20(2017).pdf)
+- Scala for the Impatient: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cay%20S.%20Horstmann%20-%20Scala%20for%20the%20Impatient-Addison-Wesley%20(2016).pdf)
 
 ### Week 1 - Functions & Evaluation
 - Lecture 1.1 - Programming Paradigms: [slides]() [notes]()
