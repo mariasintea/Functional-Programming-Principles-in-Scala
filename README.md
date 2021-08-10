@@ -13,10 +13,10 @@
 - Lecture 1.1 - Programming Paradigms: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms-Notes.pdf)
 - Lecture 1.2 - Elements of Programming: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.2-Elements-of-Programming.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.2-Elements-of-Programming-Notes.pdf)
 - Lecture 1.3 - Evaluation Strategies and Termination: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.3-Evaluation-Strategies-and-Termination.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.3-Evaluation-Strategies-and-Termination-Notes.pdf)
-- Lecture 1.4 - Conditionals and Value Definitions: [slides]() [notes]()
-- Lecture 1.5 - Example: Square Roots with Newton's method: [slides]() [notes]()
-- Lecture 1.6 - Blocks and Lexical Scope: [slides]() [notes]()
-- Lecture 1.7 - Tail Recursion: [slides]() [notes]()
+- Lecture 1.4 - Conditionals and Value Definitions: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.4-Conditionals-and-Value-Definitions.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.4-Conditionals-and-Value-Definitions-Notes.pdf)
+- Lecture 1.5 - Example: Square Roots with Newton's method: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.5-Example-Square-Roots-with-Newtons-Method.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/SquareRoots-NewtonsMethod)
+- Lecture 1.6 - Blocks and Lexical Scope: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.6-Blocks-and-Lexical-Scope.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.6-Blocks-and-Lexical-Scope-Notes.pdf)
+- Lecture 1.7 - Tail Recursion: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.7-Tail-Recursion.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.7-Tail-Recursion-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/Factorial-TailRecursion)
 - Programming Assignment - Recursion: [code]()
 
 ### Week 2 - Higher Order Functions
