@@ -17,7 +17,7 @@
 - Lecture 1.5 - Example: Square Roots with Newton's method: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.5-Example-Square-Roots-with-Newtons-Method.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/SquareRoots-NewtonsMethod)
 - Lecture 1.6 - Blocks and Lexical Scope: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.6-Blocks-and-Lexical-Scope.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.6-Blocks-and-Lexical-Scope-Notes.pdf)
 - Lecture 1.7 - Tail Recursion: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.7-Tail-Recursion.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.7-Tail-Recursion-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/Factorial-TailRecursion)
-- Programming Assignment - Recursion: [code]()
+- Programming Assignment - Recursion: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/Recursion/recfun)
 
 ### Week 2 - Higher Order Functions
 - Lecture 2.1 - Higher-order Functions: [slides]() [notes]()
