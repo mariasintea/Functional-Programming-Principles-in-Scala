@@ -20,9 +20,9 @@
 - Programming Assignment - Recursion: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-1/Recursion/recfun/src)
 
 ### Week 2 - Higher Order Functions
-- Lecture 2.1 - Higher-order Functions: [slides]() [notes]()
-- Lecture 2.2 - Currying: [slides]() [notes]()
-- Lecture 2.3 - Example: Finding Fixed Points: [slides]() [notes]()
+- Lecture 2.1 - Higher-order Functions: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.1-Higher-Order-Functions.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.1-Higher-Order-Functions-Notes.pdf)
+- Lecture 2.2 - Currying: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.2-Currying.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.2-Currying-Notes.pdf)
+- Lecture 2.3 - Example: Finding Fixed Points: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.3-Example-Finding-Fixed-Points.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/FixedPoints/src)
 - Lecture 2.4 - Scala Syntax Summary: [slides]() [notes]()
 - Lecture 2.5 - Functions and Data: [slides]() [notes]()
 - Lecture 2.6 - More Fun with Rationals: [slides]() [notes]()
