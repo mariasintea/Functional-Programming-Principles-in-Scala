@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a141e670-927d-4a54-9c79-497f9ac19e78" name="Default Changelist" comment="" />
+    <list default="true" id="c8580b86-f51f-47be-839b-2eefaa72eb95" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1wceNHdWYgHHavPWOu8y2gnbPoF" />
+  <component name="ProjectId" id="1wcjd5UF2odK44GmVcef5XvjOUz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,9 +31,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -63,12 +60,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a141e670-927d-4a54-9c79-497f9ac19e78" name="Default Changelist" comment="" />
-      <created>1628762264133</created>
+      <changelist id="c8580b86-f51f-47be-839b-2eefaa72eb95" name="Default Changelist" comment="" />
+      <created>1628764859937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628762264133</updated>
-      <workItem from="1628762266054" duration="897000" />
+      <updated>1628764859937</updated>
+      <workItem from="1628764863590" duration="120000" />
     </task>
     <servers />
   </component>
