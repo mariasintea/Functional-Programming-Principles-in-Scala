@@ -25,7 +25,7 @@
 - Lecture 2.3 - Example: Finding Fixed Points: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/Lecture2.3-Example-Finding-Fixed-Points.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/6996963d3b30acc1d795f5ed21fa667f6e97b9e9/week-2/FixedPoints/src)
 - Lecture 2.4 - Scala Syntax Summary: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.4-Scala-Syntax-Summary.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.4-Scala-Syntax-Summary-Notes.pdf)
 - Lecture 2.5 - Functions and Data: [slides]() [notes]()
-- Lecture 2.6 - More Fun with Rationals: [slides]() [notes]()
+- Lecture 2.6 - Data Abstraction: [slides]() [notes]()
 - Lecture 2.7 - Evaluations and Operators: [slides]() [notes]()
 - Programming Assignment - Functional Sets: [code]()
 
