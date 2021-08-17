@@ -30,7 +30,7 @@
 - Programming Assignment - Functional Sets: [code]()
 
 ### Week 3 - Data and Abstractions
-- Lecture 3.1 - Class Hierarchies: [slides]() [notes]()
+- Lecture 3.1 - Class Hierarchies: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-Hierarchies.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-Hierarchies-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/sets/src)
 - Lecture 3.2 - How Classes are Organised: [slides]() [notes]()
 - Lecture 3.3 - Polymorphism: [slides]() [notes]()
 - Lecture 3.4 - Objects Everywhere: [slides]() [notes]()
