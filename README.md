@@ -31,8 +31,8 @@
 
 ### Week 3 - Data and Abstractions
 - Lecture 3.1 - Class Hierarchies: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-hierarchies.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-Hierarchies-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/sets/src)
-- Lecture 3.2 - How Classes are Organised: [slides]() [notes]()
-- Lecture 3.3 - Polymorphism: [slides]() [notes]()
+- Lecture 3.2 - How Classes are Organised: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.2-How-Classes-are-Organized.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.2-How-Classes-are-Organized-Notes.pdf)
+- Lecture 3.3 - Polymorphism: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism-Notes.pdf)
 - Lecture 3.4 - Objects Everywhere: [slides]() [notes]()
 - Lecture 3.5 - Functions as Objects: [slides]() [notes]()
 - Programming Assignment - Object-Oriented Sets: [code]()
