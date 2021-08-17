@@ -60,3 +60,9 @@
 - Lecture 6.4 - Maps: [slides]() [notes]()
 - Lecture 6.5 - Putting the Pieces Together: [slides]() [notes]()
 - Programming Assignment - Anagrams: [code]()
+
+### Practice
+- Problem 1	- Multiples of 3 or 5: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/1-MultiplesOf3Or5.scala)
+- Problem 2 -	Even Fibonacci numbers: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/2-EvenFibonacciNumbers.scala)	
+- Problem 3 -	Largest prime factor: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/3-PrimeFactors.scala)
+- Problem 4	- Largest palindrome product: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/4-LargestPalindromeProduct.scala)
