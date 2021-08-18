@@ -26,19 +26,19 @@
 - Lecture 2.4 - Scala Syntax Summary: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.4-Scala-Syntax-Summary.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.4-Scala-Syntax-Summary-Notes.pdf)
 - Lecture 2.5 - Functions and Data: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.5-Functions-and-Data.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.5-Functions-and-Data-Notes.pdf)
 - Lecture 2.6 - Data Abstraction: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.6-Data-Abstraction.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.6-Data-Abstraction-Notes.pdf)
-- Lecture 2.7 - Evaluations and Operators: [slides]() [notes]()
-- Programming Assignment - Functional Sets: [code]()
+- Lecture 2.7 - Evaluations and Operators: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.7-Evaluation-and-Operators.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-2/Lecture2.7-Evaluation-and-Operators-Notes.pdf)
+- Programming Assignment - Functional Sets: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-2/Functional%20Sets/funsets/src)
 
 ### Week 3 - Data and Abstractions
 - Lecture 3.1 - Class Hierarchies: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-hierarchies.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.1-Class-Hierarchies-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/sets/src)
 - Lecture 3.2 - How Classes are Organised: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.2-How-Classes-are-Organized.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.2-How-Classes-are-Organized-Notes.pdf)
 - Lecture 3.3 - Polymorphism: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism-Notes.pdf)
-- Lecture 3.4 - Objects Everywhere: [slides]() [notes]()
-- Lecture 3.5 - Functions as Objects: [slides]() [notes]()
+- Lecture 3.4 - Objects Everywhere: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.4-Objects-Everywhere.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.4-Objects-Everywhere-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/naturalNumbers/src)
+- Lecture 3.5 - Functions as Objects: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.5-Functions-as-Objects.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.5-Functions-as-Objects-Notes.pdf)
 - Programming Assignment - Object-Oriented Sets: [code]()
 
 ### Week 4 - Types and Pattern Matching
-- Lecture 4.1 - Decomposition: [slides]() [notes]()
+- Lecture 4.1 - Decomposition: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition-Notes.pdf)
 - Lecture 4.2 - Pattern Matching: [slides]() [notes]()
 - Lecture 4.3 - Lists: [slides]() [notes]()
 - Lecture 4.4 - Enums: [slides]() [notes]()
