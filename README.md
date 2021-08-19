@@ -39,8 +39,8 @@
 
 ### Week 4 - Types and Pattern Matching
 - Lecture 4.1 - Decomposition: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition-Notes.pdf)
-- Lecture 4.2 - Pattern Matching: [slides]() [notes]()
-- Lecture 4.3 - Lists: [slides]() [notes]()
+- Lecture 4.2 - Pattern Matching: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching-Notes.pdf)
+- Lecture 4.3 - Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists-Notes.pdf)
 - Lecture 4.4 - Enums: [slides]() [notes]()
 - Lecture 4.5 - Subtyping and Generics: [slides]() [notes]()
 - Lecture 4.6 - Variance: [slides]() [notes]()
