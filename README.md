@@ -35,13 +35,13 @@
 - Lecture 3.3 - Polymorphism: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.3-Polymorphism-Notes.pdf)
 - Lecture 3.4 - Objects Everywhere: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.4-Objects-Everywhere.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.4-Objects-Everywhere-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/naturalNumbers/src)
 - Lecture 3.5 - Functions as Objects: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.5-Functions-as-Objects.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-3/Lecture3.5-Functions-as-Objects-Notes.pdf)
-- Programming Assignment - Object-Oriented Sets: [code]()
+- Programming Assignment - Object-Oriented Sets: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-3/ObjectOrientedSets/objsets/src)
 
 ### Week 4 - Types and Pattern Matching
 - Lecture 4.1 - Decomposition: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.1-Decomposition-Notes.pdf)
 - Lecture 4.2 - Pattern Matching: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching-Notes.pdf)
 - Lecture 4.3 - Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists-Notes.pdf)
-- Lecture 4.4 - Enums: [slides]() [notes]()
+- Lecture 4.4 - Enums: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums-Notes.pdf)
 - Lecture 4.5 - Subtyping and Generics: [slides]() [notes]()
 - Lecture 4.6 - Variance: [slides]() [notes]()
 - Programming Assignment - Huffman Coding: [code]()
