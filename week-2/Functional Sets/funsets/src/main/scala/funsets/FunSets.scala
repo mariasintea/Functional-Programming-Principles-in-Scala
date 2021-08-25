@@ -1,7 +1,6 @@
 package funsets
 
 import scala.annotation.tailrec
-
 /**
  * 2. Purely Functional Sets.
  */
@@ -44,7 +43,7 @@ trait FunSets extends FunSetsInterface:
   /**
    * Returns the subset of `s` for which `p` holds.
    */
-  def filter(s: FunSet, p: Int => Boolean): FunSet = (x: Int) => p(x)
+  def filter(s: FunSet, p: Int => Boolean): FunSet = (x: Int) => contains(s, x) && p(x)
 
 
   /**
@@ -55,7 +54,7 @@ trait FunSets extends FunSetsInterface:
   /**
    * Returns whether all bounded integers within `s` satisfy `p`.
    */
-  def forall(s: FunSet, p: Int => Boolean): Boolean =
+  def forall(s: FunSet, p: Int => Boolean): Boolean = {
     @tailrec
     def loop(a: Int): Boolean =
       if a > bound then
@@ -64,7 +63,9 @@ trait FunSets extends FunSetsInterface:
         false
       else
         loop(a + 1)
+
     loop(-bound)
+  }
 
   /**
    * Returns whether there exists a bounded integer within `s`
@@ -97,15 +98,17 @@ trait FunSets extends FunSetsInterface:
         loop(a + 1, union(singletonSet(f(a)), acc))
       else
         loop(a + 1, acc)
+
     loop(-bound, (x: Int) => false)
   }
 
   /**
    * Displays the contents of a set
    */
-  def toString(s: FunSet): String =
+  def toString(s: FunSet): String = {
     val xs = for i <- (-bound to bound) if contains(s, i) yield i
     xs.mkString("{", ",", "}")
+  }
 
   /**
    * Prints the contents of a set on the console.

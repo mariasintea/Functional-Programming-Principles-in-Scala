@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1636236b-f4f5-4f8c-bc65-8f713c7d165a" name="Default Changelist" comment="" />
+    <list default="true" id="1636236b-f4f5-4f8c-bc65-8f713c7d165a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week-1/Recursion/recfun/src/main/scala/recfun/RecFun.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/Recursion/recfun/src/main/scala/recfun/RecFun.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/funsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funsets/src/main/scala/funsets/FunSets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/funsets/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +61,7 @@
       <workItem from="1629800976993" duration="2000" />
       <workItem from="1629801209472" duration="257000" />
       <workItem from="1629801504779" duration="45000" />
+      <workItem from="1629921906813" duration="1000" />
     </task>
     <servers />
   </component>
