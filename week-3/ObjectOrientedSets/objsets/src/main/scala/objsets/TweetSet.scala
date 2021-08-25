@@ -109,6 +109,7 @@ abstract class TweetSet extends TweetSetInterface:
    */
   def foreach(f: Tweet => Unit): Unit
 
+
 class Empty extends TweetSet:
   def isEmpty: Boolean = true
 
@@ -132,6 +133,7 @@ class Empty extends TweetSet:
 
   def descendingByRetweet: TweetList = Nil
 
+
 class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet:
 
   def isEmpty: Boolean = false
@@ -143,29 +145,28 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet:
       left.filterAcc(p, right.filterAcc(p, acc))
   }
 
-
   /**
    * The following methods are already implemented
    */
   def contains(tweet: Tweet): Boolean =
-    if tweet.text < elem.text then
+    if (tweet.text < elem.text)
       left.contains(tweet)
-    else if elem.text < tweet.text then
+    else if (elem.text < tweet.text)
       right.contains(tweet)
     else true
 
   def incl(tweet: Tweet): TweetSet =
-    if tweet.text < elem.text then
+    if (tweet.text < elem.text)
       NonEmpty(elem, left.incl(tweet), right)
-    else if elem.text < tweet.text then
+    else if (elem.text < tweet.text)
       NonEmpty(elem, left, right.incl(tweet))
     else
       this
 
   def remove(tweet: Tweet): TweetSet =
-    if tweet.text < elem.text then
+    if (tweet.text < elem.text)
       NonEmpty(elem, left.remove(tweet), right)
-    else if elem.text < tweet.text then
+    else if (elem.text < tweet.text)
       NonEmpty(elem, left, right.remove(tweet))
     else
       left.union(right)
@@ -208,7 +209,7 @@ trait TweetList:
   def tail: TweetList
   def isEmpty: Boolean
   def foreach(f: Tweet => Unit): Unit =
-    if !isEmpty then
+    if (!isEmpty)
       f(head)
       tail.foreach(f)
 
