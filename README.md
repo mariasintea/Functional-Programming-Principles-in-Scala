@@ -44,7 +44,7 @@
 - Lecture 4.4 - Enums: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums-Notes.pdf)
 - Lecture 4.5 - Subtyping and Generics: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.5-Subtyping-and-Generics.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.5-Subtyping-and-Generics-Notes.pdf)
 - Lecture 4.6 - Variance: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.6-Variance.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.6-Variance-Notes.pdf)
-- Programming Assignment - Huffman Coding: [code]()
+- Programming Assignment - Huffman Coding: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-4/HuffmanCoding/patmat/src)
 
 ### Week 5 - Lists
 - Lecture 5.1 - A Closer Look at Lists: [slides]() [notes]()
