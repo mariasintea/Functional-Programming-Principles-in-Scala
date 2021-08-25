@@ -42,8 +42,8 @@
 - Lecture 4.2 - Pattern Matching: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.2-Pattern-Matching-Notes.pdf)
 - Lecture 4.3 - Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.3-Lists-Notes.pdf)
 - Lecture 4.4 - Enums: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.4-Enums-Notes.pdf)
-- Lecture 4.5 - Subtyping and Generics: [slides]() [notes]()
-- Lecture 4.6 - Variance: [slides]() [notes]()
+- Lecture 4.5 - Subtyping and Generics: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.5-Subtyping-and-Generics.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.5-Subtyping-and-Generics-Notes.pdf)
+- Lecture 4.6 - Variance: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.6-Variance.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-4/Lecture4.6-Variance-Notes.pdf)
 - Programming Assignment - Huffman Coding: [code]()
 
 ### Week 5 - Lists
@@ -66,3 +66,9 @@
 - Problem 2 -	Even Fibonacci numbers: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/2-EvenFibonacciNumbers.scala)	
 - Problem 3 -	Largest prime factor: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/3-PrimeFactors.scala)
 - Problem 4	- Largest palindrome product: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/4-LargestPalindromeProduct.scala)
+- Problem 5 - Smallest multiple: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/5-SmallestMultiple.scala)
+- Problem 6 -	Sum square difference: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/6-SumSquareDifference.scala)
+- Problem 7 -	10001st prime: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/7-PrimeNumbers.scala)
+- Problem 8 -	Largest product in a series: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/8-LargestProductInSeries.scala)
+- Problem 9 -	Special Pythagorean triplet: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/9-SpecialPythagoreanTriplet.scala)
+- Problem 10 - Summation of primes: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/practice/ProjectEulerProblems/src/main/scala/10-SummationOfPrimes.scala)
