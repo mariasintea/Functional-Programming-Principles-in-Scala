@@ -47,7 +47,7 @@
 - Programming Assignment - Huffman Coding: [code](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/tree/main/week-4/HuffmanCoding/patmat/src)
 
 ### Week 5 - Lists
-- Lecture 5.1 - A Closer Look at Lists: [slides]() [notes]()
+- Lecture 5.1 - A Closer Look at Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists-Notes.pdf)
 - Lecture 5.2 - Tuples and Generic Methods: [slides]() [notes]()
 - Lecture 5.3 - Higher-order List Functions: [slides]() [notes]()
 - Lecture 5.4 - Reduction of Lists: [slides]() [notes]()
