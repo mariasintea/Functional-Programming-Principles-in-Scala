@@ -48,7 +48,7 @@
 
 ### Week 5 - Lists
 - Lecture 5.1 - A Closer Look at Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists-Notes.pdf)
-- Lecture 5.2 - Tuples and Generic Methods: [slides]() [notes]()
+- Lecture 5.2 - Tuples and Generic Methods: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.2-Tuples-and-Generic-Methods.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.2-Tuples-and-Generic-Methods-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/MergeSort/src)
 - Lecture 5.3 - Higher-order List Functions: [slides]() [notes]()
 - Lecture 5.4 - Reduction of Lists: [slides]() [notes]()
 - Lecture 5.5 - Reasoning about Lists: [slides]() [notes]()
