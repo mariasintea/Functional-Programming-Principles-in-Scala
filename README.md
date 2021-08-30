@@ -4,10 +4,10 @@
 - Style Guide: [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Style-Guide.pdf)
 - Cheat Sheet: [link](https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cheat-Sheet.pdf)
 - Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
-- Structure and Interpretation of Computer Programs - Harold Abelson and Gerald J Sussman: [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) [notes]()
-- Programming in Scala - Martin Odersky: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Programming%20in%20Scala%2C%20Fourth%20Edition%20-%20Martin%20Odersky.pdf) [notes]()
-- Functional Programming Simplified - Alvin Alexander: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Alvin%20Alexander%20-%20Functional%20Programming%2C%20Simplified_%20(Scala%20edition)%20(2017).pdf) [notes]()
-- Scala for the Impatient - Cay S Horstmann: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cay%20S.%20Horstmann%20-%20Scala%20for%20the%20Impatient-Addison-Wesley%20(2016).pdf) [notes]()
+- Structure and Interpretation of Computer Programs - Harold Abelson and Gerald J Sussman: [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- Programming in Scala - Martin Odersky: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Programming%20in%20Scala%2C%20Fourth%20Edition%20-%20Martin%20Odersky.pdf)
+- Functional Programming Simplified - Alvin Alexander: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Alvin%20Alexander%20-%20Functional%20Programming%2C%20Simplified_%20(Scala%20edition)%20(2017).pdf)
+- Scala for the Impatient - Cay S Horstmann: [book](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/utils/Cay%20S.%20Horstmann%20-%20Scala%20for%20the%20Impatient-Addison-Wesley%20(2016).pdf)
 
 ### Week 1 - Functions & Evaluation
 - Lecture 1.1 - Programming Paradigms: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-1/Lecture1.1-Programming-Paradigms-Notes.pdf)
@@ -49,9 +49,9 @@
 ### Week 5 - Lists
 - Lecture 5.1 - A Closer Look at Lists: [slides](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-in-Scala-Specialization/blob/main/week-5/Lecture5.1-A-Closer-Look-at-Lists-Notes.pdf)
 - Lecture 5.2 - Tuples and Generic Methods: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.2-Tuples-and-Generic-Methods.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.2-Tuples-and-Generic-Methods-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/MergeSort/src)
-- Lecture 5.3 - Higher-order List Functions: [slides]() [notes]()
-- Lecture 5.4 - Reduction of Lists: [slides]() [notes]()
-- Lecture 5.5 - Reasoning about Lists: [slides]() [notes]()
+- Lecture 5.3 - Higher-order List Functions: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.3-Higher-Order-List-Functions.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.3-Higher-Order-List-Functions-Notes.pdf)
+- Lecture 5.4 - Reduction of Lists: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.4-Reduction-of-Lists.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.4-Reduction-of-Lists-Notes.pdf)
+- Lecture 5.5 - Reasoning about Lists: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.5-Reasoning-about-Lists.pdf)
 
 ### Week 6 - Collections
 - Lecture 6.1 - Other Collections: [slides]() [notes]()
