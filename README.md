@@ -54,10 +54,10 @@
 - Lecture 5.5 - Reasoning about Lists: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-5/Lecture5.5-Reasoning-about-Lists.pdf)
 
 ### Week 6 - Collections
-- Lecture 6.1 - Other Collections: [slides]() [notes]()
-- Lecture 6.2 - Combinatorial Search and For-Expresions: [slides]() [notes]()
-- Lecture 6.3 - Combinatorial Search Example: [slides]() [notes]()
-- Lecture 6.4 - Maps: [slides]() [notes]()
+- Lecture 6.1 - Other Collections: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.1-Other-Collections.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.1-Other-Collections-Notes.pdf)
+- Lecture 6.2 - Combinatorial Search and For-Expresions: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.2-Combinatorial-Search-and-For-Expressions.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.2-Combinatorial-Search-and-For-Expressions-Notes.pdf)
+- Lecture 6.3 - Combinatorial Search Example: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.3-Combinatorial-Search-Example.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.3-Sets-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/tree/main/week-6/NQueens/src)
+- Lecture 6.4 - Maps: [slides](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.4-Maps.pdf) [notes](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/blob/main/week-6/Lecture6.4-Maps-Notes.pdf) [code](https://github.com/mariasintea/Functional-Programming-Principles-in-Scala/tree/main/week-6/Polynoms/src)
 - Lecture 6.5 - Putting the Pieces Together: [slides]() [notes]()
 - Programming Assignment - Anagrams: [code]()
 
